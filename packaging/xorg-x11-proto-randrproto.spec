@@ -17,7 +17,7 @@ Description: %{summary}
 
 
 %prep
-%setup -q -n randrproto-%{version}
+%setup -q -n %{name}-%{version}
 
 %build
 
