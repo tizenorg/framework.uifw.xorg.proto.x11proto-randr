@@ -1,6 +1,6 @@
 Name:     xorg-x11-proto-randr
 Summary:  X.Org X11 Protocol randrproto
-Version:  1.3.2
+Version:  1.4
 Release:  1
 Group:    Development/System
 License:  MIT
